@@ -1,4 +1,2 @@
 # Beginnings
 Test
-Change
-Next
