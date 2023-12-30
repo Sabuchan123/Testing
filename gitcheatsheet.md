@@ -13,3 +13,4 @@ git reset --hard CommitHash
 git remote add RemoteName RepoUrl
 git remote remove RemoteName
 git pull
+git log
